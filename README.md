@@ -5,3 +5,9 @@ This exercise introduces the concept of freight calculation using conditional lo
 # springboot-frete-IoC -> pt-BR
 
 Este exercício introduz o conceito de cálculo de frete utilizando lógica condicional em Java com Spring Boot. O programa determina a taxa de frete com base no valor básico do pedido, aplicando diferentes tarifas de acordo com as regras de negócio especificadas.
+
+## Fonte do Exercício:
+
+- Java spring profissional
+- Professor Nelio Alves
+- GitHub: https://github.com/acenelio
